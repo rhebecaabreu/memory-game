@@ -1,0 +1,18 @@
+{
+    "workbench.iconTheme": "vscode-great-icons",
+    "workbench.colorTheme": "GitHub Dark",
+    "files.trimTrailingWhitespace": true,
+
+    "explorer.autoReveal": false,
+    "editor.formatOnSave": true,
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.includeLanguages": {
+      "javascript": "javascriptreact"
+    },
+    "breadcrumbs.enabled": true,
+    "editor.codeActionsOnSave": {},
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+  }
